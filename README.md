@@ -1,2 +1,2 @@
 ## Java代码练习
-[![Java](/assets/img/shiprock.jpg "Shiprock")]([https://markdown.com.cn](https://img2020.cnblogs.com/blog/2435234/202107/2435234-20210710173731815-1401397857.png))
+[![Java](/assets/img/shiprock.jpg "Shiprock")](https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2022/11/image1-16.png)
