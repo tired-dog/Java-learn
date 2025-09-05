@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/my-thread/pom.xml" />
         <option value="$PROJECT_DIR$/my-thread-pool/pom.xml" />
         <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/string-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/regex/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-exception/pom.xml" />
       </list>
     </option>
   </component>
